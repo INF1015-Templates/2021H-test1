@@ -10,6 +10,9 @@
 
 int main()
 {
-	std::cout << "Hello, world!" << "\n";
+	std::cout << "who dis? new repo: ";
+	std::string name;
+	std::getline(std::cin, name);
+	std::cout << "aight wassup " << name << "\n";
 }
 
