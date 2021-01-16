@@ -1,0 +1,4 @@
+.github/workflows/exercise.yml
+README.md
+settings/files_to_update.txt
+settings/variables.txt
